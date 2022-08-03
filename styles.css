@@ -1,4 +1,4 @@
-img  {
+.upper_part img  {
     float: left;
     width: 300px;
     margin-right: 20px;
@@ -13,7 +13,22 @@ p {
 }
 
 .content {
+    box-sizing: border-box;
     border: 1rem;
-    border-style: dashed;
-    width: 700px;
+    border-style: dotted;
+    width: 100%;
+}
+
+.img_section img {
+    box-sizing: border-box;
+    width: 30%;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: darkgray;
+}
+
+section {
+margin-left: 10%;
+margin-right: 10%;
+background-color: cornsilk;
 }
