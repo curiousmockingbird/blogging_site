@@ -1,0 +1,16 @@
+img  {
+    float: left;
+    width: 300px;
+    margin-right: 20px;
+}
+
+p {
+    background-color: yellow;
+    font-size: 1rem;
+}
+
+.content {
+    border: 1rem;
+    border-style: dashed;
+    width: 700px;
+}
