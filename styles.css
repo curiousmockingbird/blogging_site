@@ -7,6 +7,9 @@ img  {
 p {
     background-color: yellow;
     font-size: 1rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
 }
 
 .content {
